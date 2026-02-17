@@ -1,6 +1,6 @@
 # Hi There! I'm Afsar Fakhri Hermadi
 
-![Anime](https://tenor.com/mRuB9vp85JE.gif)
+![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdzY3Fwb3ZzenV2aDR5bnZjdWJmaW5jcWxmYTJhMWdrZWZzdWZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BS5xpdVyMKniU/giphy.gif)
 
 ## About Me?
 - 👀 I was born in Subang, Indonesia
