@@ -6,11 +6,11 @@
 - 👀 I was born in Subang, Indonesia
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework.
 - ⚡ Fun fact: I'm a Student at SMK IDN Boarding School
-- 📌 I'm 15 Years Old
-- 🎮 I like to play some games
+- 📌 I'm 16 Years Old
 
 ## My Skill (What Things That I Really Expert In)?
 - 🥱 HTML
-- 😄 CSS 
+- 😄 CSS
+- 😄 JavaScript
 - 🤣 Tailwind
 - 🎨 Figma
