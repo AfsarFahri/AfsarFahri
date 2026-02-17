@@ -1,6 +1,6 @@
 # Hi There! I'm Afsar Fakhri Hermadi
 
-![Anime](https://tenor.com/view/watanare-koyanagi-kaho-wakaru-shiny-eyes-star-eyes-gif-10658152481904807084)
+![Anime](https://tenor.com/mRuB9vp85JE.gif)
 
 ## About Me?
 - 👀 I was born in Subang, Indonesia
