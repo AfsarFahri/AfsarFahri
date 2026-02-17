@@ -1,6 +1,6 @@
 # Hi There! I'm Afsar Fakhri Hermadi
 
-![Anime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA1M3VjNGJtbXh4eTduYW51M250NjAxbGNpNDVlcjY5N2RveTd3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif)
+![Anime](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNmOTZoZmFvcWhmdzVocGE3M2Z3M3MyYnpkdGtuMTZ0bm5rMndldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oM1ROvSVA1KfU1zYvk/giphy.gif)
 
 ## About Me?
 - 👀 I was born in Subang, Indonesia
