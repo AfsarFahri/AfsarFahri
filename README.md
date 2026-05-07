@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Frontend Developer** and **UI/UX Designer** from Indonesia who enjoys creating modern, responsive, and user-friendly digital experiences.
 
-Currently studying at **SMK IDN Boarding School**, with a strong interest in frontend technologies, clean interface design, and web development.
+Currently studying at **SMK IDN Boarding School**, focusing on frontend development, clean interface design, and modern web technologies.
 
 ---
 
@@ -13,43 +13,53 @@ Currently studying at **SMK IDN Boarding School**, with a strong interest in fro
 
 <table>
 <tr>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=html" width="55" /><br><br>
-<strong>HTML5</strong><br>
-Semantic and structured web development
+
+<td align="center">
+<div style="background:#E34F26;padding:15px 25px;border-radius:12px;color:white;width:120px">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br><br>
+<b>HTML5</b>
+</div>
 </td>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=css" width="55" /><br><br>
-<strong>CSS3</strong><br>
-Modern responsive and clean styling
+<td align="center">
+<div style="background:#1572B6;padding:15px 25px;border-radius:12px;color:white;width:120px">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br><br>
+<b>CSS3</b>
+</div>
 </td>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=js" width="55" /><br><br>
-<strong>JavaScript</strong><br>
-Interactive and dynamic web experiences
+<td align="center">
+<div style="background:#F7DF1E;padding:15px 25px;border-radius:12px;color:black;width:120px">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br><br>
+<b>JavaScript</b>
+</div>
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><br>
-<strong>Tailwind CSS</strong><br>
-Utility-first modern UI development
+
+<td align="center">
+<div style="background:#38BDF8;padding:15px 25px;border-radius:12px;color:white;width:120px">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><br>
+<b>Tailwind CSS</b>
+</div>
 </td>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=figma" width="55" /><br><br>
-<strong>Figma</strong><br>
-UI/UX interface and prototyping design
+<td align="center">
+<div style="background:#A259FF;padding:15px 25px;border-radius:12px;color:white;width:120px">
+<img src="https://skillicons.dev/icons?i=figma" width="45"/><br><br>
+<b>Figma</b>
+</div>
 </td>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=git" width="55" /><br><br>
-<strong>Git</strong><br>
-Version control and collaboration
+<td align="center">
+<div style="background:#F05032;padding:15px 25px;border-radius:12px;color:white;width:120px">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br><br>
+<b>Git</b>
+</div>
 </td>
+
 </tr>
 </table>
 
@@ -58,21 +68,7 @@ Version control and collaboration
 ---
 
 ## 🎯 Current Focus
-- Building responsive and scalable websites  
+- Building responsive and modern websites  
 - Improving frontend development skills  
-- Creating clean and modern UI/UX designs  
-- Learning more about modern web technologies  
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="your-github-link">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
-</a>
-
-<a href="your-instagram-link">
-<img src="https://skillicons.dev/icons?i=instagram" width="45" />
-</a>
-</p>
+- Creating clean and intuitive UI/UX designs  
+- Learning modern web technologies  
