@@ -1,42 +1,78 @@
 # Hi there, I'm Afsar Fakhri Hermadi 👋
 
 ## 🚀 About Me
-I'm a passionate **Frontend Developer** and **UI/UX Designer** from Indonesia who enjoys building modern, responsive, and user-friendly websites.
+I'm a passionate **Frontend Developer** and **UI/UX Designer** from Indonesia who enjoys creating modern, responsive, and user-friendly digital experiences.
 
-- 🌍 Based in Subang, Indonesia  
-- 🎓 Student at SMK IDN Boarding School  
-- 💡 Focused on Frontend Development & UI/UX Design  
-- ⚡ 16 Years Old  
-- 📚 Always learning new technologies and improving my creativity  
+Currently studying at **SMK IDN Boarding School**, with a strong interest in frontend technologies, clean interface design, and web development.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-| Frontend | Styling | Design |
-|----------|----------|--------|
-| <img src="https://skillicons.dev/icons?i=html" width="50"><br>HTML5 | <img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>Tailwind CSS | <img src="https://skillicons.dev/icons?i=figma" width="50"><br>Figma |
-| <img src="https://skillicons.dev/icons?i=css" width="50"><br>CSS3 | <img src="https://skillicons.dev/icons?i=js" width="50"><br>JavaScript | 🎨 UI/UX Design |
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=html" width="55" /><br><br>
+<strong>HTML5</strong><br>
+Semantic and structured web development
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=css" width="55" /><br><br>
+<strong>CSS3</strong><br>
+Modern responsive and clean styling
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br><br>
+<strong>JavaScript</strong><br>
+Interactive and dynamic web experiences
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><br>
+<strong>Tailwind CSS</strong><br>
+Utility-first modern UI development
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=figma" width="55" /><br><br>
+<strong>Figma</strong><br>
+UI/UX interface and prototyping design
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=git" width="55" /><br><br>
+<strong>Git</strong><br>
+Version control and collaboration
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ## 🎯 Current Focus
-- Building responsive and modern websites  
-- Improving JavaScript and frontend architecture  
-- Designing clean and intuitive user interfaces  
+- Building responsive and scalable websites  
+- Improving frontend development skills  
+- Creating clean and modern UI/UX designs  
+- Learning more about modern web technologies  
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="left">
 <a href="your-github-link">
-  <img src="https://skillicons.dev/icons?i=github" width="45">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
+
 <a href="your-instagram-link">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
 </a>
 </p>
