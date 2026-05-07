@@ -11,57 +11,15 @@ Currently studying at **SMK IDN Boarding School**, focusing on frontend developm
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<td align="center">
-<div style="background:#E34F26;padding:15px 25px;border-radius:12px;color:white;width:120px">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br><br>
-<b>HTML5</b>
-</div>
-</td>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<td align="center">
-<div style="background:#1572B6;padding:15px 25px;border-radius:12px;color:white;width:120px">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br><br>
-<b>CSS3</b>
-</div>
-</td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<td align="center">
-<div style="background:#F7DF1E;padding:15px 25px;border-radius:12px;color:black;width:120px">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br><br>
-<b>JavaScript</b>
-</div>
-</td>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-</tr>
-
-<tr>
-
-<td align="center">
-<div style="background:#38BDF8;padding:15px 25px;border-radius:12px;color:white;width:120px">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><br>
-<b>Tailwind CSS</b>
-</div>
-</td>
-
-<td align="center">
-<div style="background:#A259FF;padding:15px 25px;border-radius:12px;color:white;width:120px">
-<img src="https://skillicons.dev/icons?i=figma" width="45"/><br><br>
-<b>Figma</b>
-</div>
-</td>
-
-<td align="center">
-<div style="background:#F05032;padding:15px 25px;border-radius:12px;color:white;width:120px">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br><br>
-<b>Git</b>
-</div>
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
